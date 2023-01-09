@@ -245,7 +245,7 @@ select{
 
 
 .bannerDark{
-    background: url(http://retail-loyalty.org/upload/iblock/2ab/840px_dhl_express_990x500.jpg) center / cover;
+    background: url(https://d35z3p2poghz10.cloudfront.net/apps/thirdparty/dhl-express/S5-DHL-Express.jpg) center / cover;
     width: 100%;
     height: 450px;
     position: relative;
@@ -266,7 +266,7 @@ select{
     font-size: 40px;
     margin-top: -400px;
     position: absolute;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
 .banner2 i{
@@ -721,5 +721,8 @@ select{
     }
     .banner2 i{
         margin-left: 90px;
+    }
+    .banner{
+        height: 60vh;
     }
 }
